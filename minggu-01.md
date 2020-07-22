@@ -14,9 +14,14 @@
 
 ## Service models 
 #### Infrastructure as a service (IaaS)
-iaas adalah 
+iaas adalah layanan yang di sediakan oleh provider yang diamana kita dapat memilih spedifikasi seperti RAM, CPU, dan Storage, dengan menggunakan Iaas kita dapat bebas membuat infratuktur layanan yang sesuai dengan kita inginkan atau di butuhkan.
+
 #### Platform as a service (PaaS)
+layanan cloud yang di sediakan oleh provider yang dimana kita tidak perlu lagi membuat layanan yang di butuhkan secara manual karena sudah di sediakan oleh provider seperti sistem operasi, database dan web server sudah tersedia dan tinggal di pakai atau di konfigurasi menyesuaikan dengan project yang ingin di deploy.
+
 #### Software as a service (SaaS)
+SaaS adalah layanan cloud yang disediak oleh provider sudah dalam bentuk prangkat lunak pengguna tinggal menggunakan saja prangkat lunak atau aplikasi yang di sediakan tanpa harus mengerti bagaimana infrasturkturnya konfigurasi webserver dan databse serta jaraingan yang di pakai karena semuanya sudah di paket lengkap di sediakan oleh provider.
+
 #### Mobile "backend" as a service (MBaaS)
 #### Serverless computing
 #### Function as a service (FaaS)
