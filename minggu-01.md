@@ -38,3 +38,5 @@ Public Cloud adalah layanan cloud yang di gunakan oleh banyak orang jadi siapa s
 
 #### Hybrid cloud
 Public Cloud adalah layanan cloud yang terdiri dari private dab juga public cloud dimana biasanya di gunakan oleh antar prusahaan untuk mempermudah proses cross deployment antara layana satu dengan layanan lainya bisa juga di gunakan untuk menjaga kemaan data dan privasi prusahaan.
+
+##### sumber : https://en.wikipedia.org/wiki/Cloud_computing
