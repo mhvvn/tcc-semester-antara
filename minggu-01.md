@@ -12,14 +12,15 @@
 * Rapid Elasticity 
 
 ## Service models 
-### Infrastructure as a service (IaaS)
-### Platform as a service (PaaS)
-### Software as a service (SaaS)
-### Mobile "backend" as a service (MBaaS)
-### Serverless computing
-### Function as a service (FaaS)
+#### Infrastructure as a service (IaaS)
+iaas adalah 
+#### Platform as a service (PaaS)
+#### Software as a service (SaaS)
+#### Mobile "backend" as a service (MBaaS)
+#### Serverless computing
+#### Function as a service (FaaS)
 
 ## Deployment models
-Private cloud
-Public cloud
-Hybrid cloud
+#### Private cloud
+#### Public cloud
+#### Hybrid cloud
