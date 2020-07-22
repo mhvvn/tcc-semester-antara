@@ -22,11 +22,19 @@ layanan cloud yang di sediakan oleh provider yang dimana kita tidak perlu lagi m
 #### Software as a service (SaaS)
 SaaS adalah layanan cloud yang disediak oleh provider sudah dalam bentuk prangkat lunak pengguna tinggal menggunakan saja prangkat lunak atau aplikasi yang di sediakan tanpa harus mengerti bagaimana infrasturkturnya konfigurasi webserver dan databse serta jaraingan yang di pakai karena semuanya sudah di paket lengkap di sediakan oleh provider.
 
-#### Mobile "backend" as a service (MBaaS)
+#### Backend as a service (BaaS)
+BaaS adalah layanan cloud yang cukup baru dan di gunaka aplikasi web dan mobile untuk menghubungkan penyimpanan aplikasi ke layanan cloud dengan menggunakan application programming interfaces (APIs) dan  custom software development kits (SDKs), biasanya untuk layanan Notifikasi yang real time.
+
 #### Serverless computing
-#### Function as a service (FaaS)
+Layanan Tanpa Server atau Server Less adalah layanan yang di sediakan oleh provider cloud yang dapat kita gunakan untuk mengembakan aplikasi seperti web dengan minim konfigurasi seperti deploy manual, kita tidak perlu megakses SSH ke server atau meremote koneksi, karena semuanya sudah di maintenance oleh provider, layanan serverless ini hampir mirip seperi Cpanel.
+
 
 ## Deployment models
 #### Private cloud
+Private Cloud adalah layanan cloud computinf biasanya di gunakan secara tertutup hanya untuk sebuah orgarinasai atau perusahaan saya dan di maintenance oleh internal saja. 
+
 #### Public cloud
+Public Cloud adalah layanan cloud yang di gunakan oleh banyak orang jadi siapa saja bisa menggunakan layanan sersebut layaknya seperi provider cloud saat ini
+
 #### Hybrid cloud
+Public Cloud adalah layanan cloud yang terdiri dari private dab juga public cloud dimana biasanya di gunakan oleh antar prusahaan untuk mempermudah proses cross deployment antara layana satu dengan layanan lainya bisa juga di gunakan untuk menjaga kemaan data dan privasi prusahaan.
