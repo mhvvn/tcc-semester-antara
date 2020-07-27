@@ -27,3 +27,9 @@ Ketika pelanggan mengeluarkan permintaan atas sebuah Virtual Machine, Hypervisor
 kita dapat melakukan testting aplikasi sebelum di upload ke production server , dengan Iaas kita  dapat melakukan testing dengan cepat untuk dappat di uji dengan fitur scale up dev-test semua bisa di lakukan dengan cepat dan mudah.
 ##### Webiste Hossting
 Sebagai layanan Iaas tentunya kita dapat menjadikanya sebagai server webhosting yang lebih fleksibel dan hemat biaya.
+##### Web Apps
+dengan Iaas tentunya semua kebutuhan untuk web apps sudah di dukung seperti storage, web server dan newtwork reousrce yang dapat di gunakan ketiak ingin men scale up dan scale down applikasi setiap saat.
+##### High-performance computing 
+HPC seperti super komputer grid komputer atau kluster komputer dapat di terapkan pada layanan Iaas dengan adanya HPC kita dapat melakukan simulasi cuaca, gempa, dan lain-lain
+##### Big data analysis
+Iaas juga dapat di gunakan sabai infrastruktur untuk melakukan analisis bigdata.
