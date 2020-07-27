@@ -33,3 +33,12 @@ dengan Iaas tentunya semua kebutuhan untuk web apps sudah di dukung seperti stor
 HPC seperti super komputer grid komputer atau kluster komputer dapat di terapkan pada layanan Iaas dengan adanya HPC kita dapat melakukan simulasi cuaca, gempa, dan lain-lain
 ##### Big data analysis
 Iaas juga dapat di gunakan sabai infrastruktur untuk melakukan analisis bigdata.
+
+## Software Defined Networking (SDN)
+SDN atau Software Defined Network adalah teknologi yang memisahkan antara data plane dengan control plane pada perangkat jaringan. dengan menggunakan SDN kita dapat menghandle semua perangkat seperti router,swtich hanya dengan satu perangkat saja perangkat ini lah yang nantinya kita kenal dengan istilah controller, Jadi controller ini merupakan pusat konfigurasi dari semua perangkat dalam SDN atau bisa dikatakan kontrol pusat dimana setiap perangkat di konfigurasi secara langsung atau terpusat, semua perangkat tersebut bisa terhubung ke controller dengan menggunakan sebuah protokol yang kita kenal dengan openflow bila kita aktifkan maka secara otomatis akan memisahkan antara data plane dengan control plane, dan agar controller bisa terhubung ke setiap perangkat syaratnya perangkat tersebut harus sudah support openflow, berarti akan  bertambah lagi kata kunci kita ada SDN, controller, Openflow merupakan bagian atau komponen dalam membangun SDN.
+
+Arsitektur Software Defined Networking:
+
+* Aplication Layer
+* Controller Layer
+* Infrastruktur Layer
