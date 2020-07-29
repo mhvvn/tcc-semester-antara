@@ -1,6 +1,7 @@
-# Infrastructure as a Service dan SDN
+# Teknologi Cloud Computing 
 ### Minggu04 
 
+#### Infrastructure as a Service dan SDN
 Iaas adalah layanan infrastruktur memberikan kendali penuh bagi pengguna untuk melakukan penambahan atau pengurangan resources. Selain itu, pengguna dapat dengan bebas menginstall aplikasi-aplikasi dalam VM yang dibuat.
 
 Secara topologi pun IaaS dapat dibuat sesuai dengan kebutuhan seperti topologi network atau juga penggunaan VPN,layanan cloud yang sudah berupa bundling perangkat hardware yang berupa virtualisasi, jaringan internet, bandwitch, network dan ip publik, termasuk storage.

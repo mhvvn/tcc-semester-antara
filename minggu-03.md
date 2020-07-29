@@ -1,4 +1,4 @@
-# Gambaran Umum Cloud Computing 
+# Teknologi Cloud Computing 
 ### Minggu03
 
 #### Software as a service (SaaS)
