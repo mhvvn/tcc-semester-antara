@@ -1,5 +1,5 @@
 # Teknologi Cloud Computing 
-### Minggu05
+### Minggu06
 
 ## Data as a Service
 Data sebagai layanan (DaaS) adalah strategi manajemen data yang menggunakan cloud untuk mengirimkan layanan penyimpanan data, integrasi, pemrosesan, dan / atau analitik melalui koneksi jaringan.
